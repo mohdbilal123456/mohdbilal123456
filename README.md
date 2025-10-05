@@ -5,10 +5,11 @@
 ---
 
 🚀 **About Me**
-- 🎓 B.Tech (2025) | Trained in MERN Stack Development  
-- 💻 Skilled in **React.js, Node.js, Express.js, MongoDB, Firebase**  
+
+- 🎓 B.Tech (2025) in Computer Science from **Allenhouse Institute of Technology**  
+- 💻 MERN Stack Developer skilled in **React.js, Node.js, Express.js, MongoDB, Firebase**  
 - 🧠 Learning **Next.js** and exploring **Cloud Deployment (Render, Netlify, Vercel)**  
-- 🌱 Passionate about building scalable web apps and solving real-world problems  
+- 🌱 Passionate about creating **scalable web apps** and writing **clean, maintainable code**
 
 ---
 
