@@ -31,6 +31,9 @@
 ---
 
 ### 💼 Featured Projects
+🔹 **[CodeVista LMS — Learning Management System (MERN)](https://lms-1-vcui.onrender.com/)**  
+🎓 [Full-featured LMS with role-based educator & student dashboards, course & lecture management, AI-powered search, Razorpay payments, Cloudinary uploads, and analytics.]
+🧩 [GitHub Repo](https://github.com/mohdbilal123456/LMS) | 🌐 [Live Demo](https://lms-1-vcui.onrender.com/)
 
 🔹 **[OneCart – E-Commerce Platform (MERN)](https://updated-onecart.netlify.app/)**  
 🛒 Full-featured e-commerce app with product management, authentication & Razorpay payment integration.  
