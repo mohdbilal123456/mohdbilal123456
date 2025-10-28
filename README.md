@@ -24,9 +24,7 @@
 
 ### 📈 GitHub Stats
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdbilal123456&show_icons=true&theme=tokyonight)
-
 ![Bilal's streak](https://github-readme-streak-stats.herokuapp.com/?user=mohdbilal123456&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdbilal123456&layout=compact&theme=tokyonight)
 
 ---
