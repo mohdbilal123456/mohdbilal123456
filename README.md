@@ -56,7 +56,7 @@
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohd-bilal-924265237/)
 - 🌐 [Portfolio](https://my-portfolio-alpha-red-90.vercel.app/)
-- 📧 **mohdbilal123456@gmail.com**
+- 📧 **mohdbilalb09@gmail.com**
 
 ---
 
