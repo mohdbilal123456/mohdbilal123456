@@ -14,10 +14,11 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React.js, HTML5, CSS3, JavaScript, TailwindCSS  
-**Backend:** Node.js, Express.js, Firebase  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman, Render, Netlify  
+- **Frontend:** ⚛️ React.js | 🧩 HTML5 | 🎨 CSS3 | 💡 JavaScript | 🌈 TailwindCSS  
+- **Backend:** 🖥️ Node.js | 🚀 Express.js | 🔥 Firebase  
+- **Database:** 🗄️ MongoDB  
+- **Tools & Deployment:** 🧰 Git | 🐙 GitHub | 🧑‍💻 VS Code | 📬 Postman | ☁️ Render | 🌐 Netlify
+
 
 ---
 
